@@ -1,4 +1,4 @@
-### Hey i'm currently in a apprenticeship in IT
+### Hey i'm currently currently in an Apprenticeship in IT
 
 <!--
 **ddemiraj/ddemiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
